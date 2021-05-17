@@ -3,7 +3,7 @@ package com.learning.java;
 public class SecondProject {
 /*
  * Fundamentals:
- 1. Intro to JAVA
+ 1. Introduction to JAVA
  2. Variables
  3. Data Types
  4. Operators
@@ -35,6 +35,6 @@ public class SecondProject {
  Selenium
  */
 	public static void main(String[] args) {
-		System.out.println("This is My 2nd Program");	 
+				 
 	}
 }
